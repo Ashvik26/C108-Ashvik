@@ -1,0 +1,9 @@
+.footer_div{
+    position:fixed ;
+bottom: 0;
+width:100%;
+line-height:3;
+background-color: cornflowerblue;
+color: black;
+text-shadow:5px 5px 5px gray;
+}
